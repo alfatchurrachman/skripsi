@@ -8,3 +8,5 @@ Di repo ini ada:
 Cara menjalankan run_until_converged.sh dijelasin di dalem file tersebut, yakni:
 1. chmod +x run_until_converged.sh
 2. ./run_until_converged.sh
+
+Catatan: Jangan lupa bikin folder 'outputs' di direktori kerja, karena hasilnya bakal dipindah ke sana sama run_until_converged.sh
