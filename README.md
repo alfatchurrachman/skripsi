@@ -6,5 +6,5 @@ Di repo ini ada:
 - generate_xlsx.py : untuk ngeparsing hasil simulasi (format .phsp) menjadi excel, dan ngegabungin semua running
 
 Cara menjalankan run_until_converged.sh dijelasin di dalem file tersebut, yakni:
-chmod +x run_until_converged.sh
-./run_until_converged.sh
+1. chmod +x run_until_converged.sh
+2. ./run_until_converged.sh
